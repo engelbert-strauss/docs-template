@@ -1,0 +1,17 @@
+{
+  "link.title.Categories": {
+    "message": "Kategorien"
+  },
+  "link.title.Contact": {
+    "message": "Kontakt"
+  },
+  "link.item.label.Users": {
+    "message": "Benutzer"
+  },
+  "link.item.label.Developers": {
+    "message": "Entwickler"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 engelbert-strauss GmbH & Co. KG"
+  }
+}

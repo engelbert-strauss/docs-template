@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Dokumentations Vorlage"
+  },
+  "item.label.Users": {
+    "message": "Benutzer"
+  },
+  "item.label.Developers": {
+    "message": "Entwickler"
+  }
+}

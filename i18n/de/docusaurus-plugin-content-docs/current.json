@@ -1,0 +1,11 @@
+{
+  "version.label": {
+    "message": "Weiter"
+  },
+  "sidebar.sidebar.category.Users": {
+    "message": "Benutzer"
+  },
+  "sidebar.sidebar.category.Developers": {
+    "message": "Entwickler"
+  }
+}

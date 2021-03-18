@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Documentation Template",
+    "description": "The title in the navbar"
+  },
+  "item.label.Users": {
+    "message": "Users",
+    "description": "Navbar item with label Users"
+  },
+  "item.label.Developers": {
+    "message": "Developers",
+    "description": "Navbar item with label Developers"
+  }
+}

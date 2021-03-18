@@ -1,0 +1,29 @@
+{
+  "Documentation": {
+    "message": "Dokumentation"
+  },
+  "I'm a user": {
+    "message": "Ich bin ein Benutzer"
+  },
+  "I'm a developer": {
+    "message": "Ich bin ein Entwickler"
+  },
+  "Book unbooked": {
+    "message": "Buchen unverbuchte"
+  },
+  "Shelf information": {
+    "message": "Lagerfachinfo"
+  },
+  "Forecast": {
+    "message": "Aufkommen"
+  },
+  "The main feature is to book unbooked stock movements that have to be scanned with a handheld device when the goods are arriving at the shelf.": {
+    "message": "Die Hauptfunktionalität der Handheld App ist das Buchen unverbuchter Buchungen mit einem mobilen Endgerät wenn der Nachschub das Fach erreicht."
+  },
+  "The handheld device can be used to scan a shelf identifier to retrieve information about that shelf. E.g. the article number currently on the and the shelf type.": {
+    "message": "Mit dem mobilen Endgerät kann ein Lagerfach gescannt werden um Informationen über dieses Lagerfach anzuzeigen. Z.B. welcher Artikel auf dem Fach liegt."
+  },
+  "Another feature is to display the forecast of a given supply station number. So the user sees the number of boxes that are currently on the belt system coming to the supply station.": {
+    "message": "Eine weitere Funktionalität ist das Anzeigen von Nachschubsaufkommen an einem Bahnhof. Hier wird die Anzahl der Pakete angezeigt, die gerade auf dem Weg zum Bahnhof sind."
+  }
+}
