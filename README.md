@@ -6,3 +6,6 @@ documentation. To check it out locally, just run
 npm ci
 npm run start
 ```
+
+See https://engelbert-strauss.github.io/docs-template/ for latest deployed
+version.
