@@ -36,25 +36,27 @@ digraph architecture {
   node[fillcolor="#CFD8DC" style="filled" fontcolor="black"];
   wws[label="WWS"];
   syspro[label="Syspro"];
+  authorization[label="Authorization.Api"]
+  authentication[label="Authentication.Api"]
   
   subgraph clients {
-      assemblylines_webui -> {assemblylines_webapi};
-      preparation_webui -> {preparation_webapi};
-      shipping_webui -> {shipping_webapi};
+      assemblylines_webui -> {assemblylines_webapi, authentication};
+      preparation_webui -> {preparation_webapi, authentication};
+      shipping_webui -> {shipping_webapi, authentication};
   }
   
   subgraph backends {
-      assemblylines_webapi -> {mongo};
-      preparation_webapi -> {mongo};
-      shipping_webapi -> {mongo};
+      assemblylines_webapi -> {mongo, authorization};
+      preparation_webapi -> {mongo, authorization};
+      shipping_webapi -> {mongo, authorization};
       webapi -> {mongo, syspro, wws};
-      
-      {rank=same; webapi, mongo};
   }
   
   subgraph thirdparties {
       wws -> webapi
       syspro -> webapi
   }
+  
+  {rank=same; webapi, mongo};
 }
 ```

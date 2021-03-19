@@ -52,7 +52,7 @@ module.exports = {
             },
             {
               label: 'Developers',
-              to: 'docs/api-specs',
+              to: 'docs/big-picture',
             },
           ],
         },

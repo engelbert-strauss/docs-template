@@ -7,6 +7,7 @@ information when adding new users to this app. So be precise in description
 which task is needed for what. The name and the description is always in
 German.
 
-| Task name                       | Description                                                                                        |
-| ------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Dokumentieren der Dokumentation | Der Benutzer ist in der Lage neue Dokumentationen über den Prozess der Dokumentation zu schreiben. |
+| Task name                       | Description                                                                                              |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------- |
+| Dokumentieren der Dokumentation | Der Benutzer ist in der Lage neue Dokumentationen über den Prozess der Dokumentation zu schreiben.       |
+| Erstellen von User Guides       | Der Benutzer verfügt über alle Rechte die nötig sind um einen User Guide zu erstellen oder zu editieren. |

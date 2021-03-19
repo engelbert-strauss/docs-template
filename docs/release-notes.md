@@ -12,3 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The initial release of the documentation template. This template
   should function as a startup booster to quickly setup a documentation
   project for your microservice.
+- The Q & A section should serve as source for setting your own documentation
+  project quickly.
+- The business data page should clarify all replacement tokens that are
+  available in the template.

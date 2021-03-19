@@ -20,3 +20,8 @@ Yet another layer. Do you see it on the right side?
 #### This is not the depth you are looking for
 Not everything is visible on the right side but you can use it to further
 structure you sub headline.
+
+:::info
+If your user guide is more complex you can of course add multiple pages
+and structure your documentation website to your liking.
+:::
