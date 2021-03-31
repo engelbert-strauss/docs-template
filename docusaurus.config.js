@@ -88,4 +88,9 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [ require.resolve('docusaurus-lunr-search'), {
+      languages: ['de', 'en']
+    }]
+  ]
 };
