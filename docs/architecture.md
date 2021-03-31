@@ -1,6 +1,6 @@
 ---
-id: big-picture
-title: Big Picture
+id: architecture
+title: Architecture
 ---
 Share your big picture. Where are you placed in the landscape? Helps for
 orientation. Do it graphically and in code. So it can be easily adapted.

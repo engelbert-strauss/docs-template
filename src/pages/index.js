@@ -65,7 +65,7 @@ function Home() {
                 'button button--primary',
                 styles.link,
               )}
-              to={useBaseUrl('docs/big-picture')}>
+              to={useBaseUrl('docs/architecture')}>
               <Translate description="Developers">I'm a developer</Translate>
             </Link>
           </div>

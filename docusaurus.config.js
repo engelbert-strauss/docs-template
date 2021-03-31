@@ -35,7 +35,7 @@ module.exports = {
       },
       items: [
         { to: 'docs/user-guide', label: 'Users', position: 'right' },
-        { to: 'docs/big-picture', label: 'Developers', position: 'right' },
+        { to: 'docs/architecture', label: 'Developers', position: 'right' },
         { type: 'localeDropdown', position: 'right' },
       ],
       style: 'primary',
@@ -52,7 +52,7 @@ module.exports = {
             },
             {
               label: 'Developers',
-              to: 'docs/big-picture',
+              to: 'docs/architecture',
             },
           ],
         },
